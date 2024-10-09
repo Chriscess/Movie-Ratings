@@ -1,17 +1,7 @@
 # Movie-Ratings
 # DATASET
   Data set consists if 562 observation and 6 variables:
-  Films
-  
-  Genres
-  
-  Rottentomatoratings
-  
-  Audience ratings
-  
-  Budget in millions
-  
-  Yearof release
+  Films Genres Rottentomatoratings Audience ratings Budget in millions Yearof release
   
  Note:
  Rotten tomato ratings- It measures the percentage that are more positive than negative and assigns and  overall rotten fresh or rotten tomato to a movie.
