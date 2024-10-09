@@ -2,14 +2,22 @@
 # DATASET
   Data set consists if 562 observation and 6 variables:
   Films
+  
   Genres
+  
   Rottentomatoratings
+  
   Audience ratings
+  
   Budget in millions
+  
   Yearof release
+  
  Note:
  Rotten tomato ratings- It measures the percentage that are more positive than negative and assigns and  overall rotten fresh or rotten tomato to a movie.
+ 
  Audience Ratings- It is the quantitative measure of how many people are watching or listening to a specific piece of content.
+ 
 
  ![image](https://github.com/user-attachments/assets/f25713c5-3800-4da3-a1d2-20aaf413d8cf)
 
@@ -20,21 +28,27 @@
  TOMATO  RATINGS
 
 In 2007, on average, Adventure and Thriller has the highest ratings.
-In 2008, on average , Romance and Drama has the highest ratings
-In 2009, on average Adventure  and Comedy has the highest ratings
-In 2010, on average Adventure and Drama has the highest ratings
-In 2011, on average, Adventure and Drama has the highest ratings
+
+In 2008, on average , Romance and Drama has the highest ratings.
+
+In 2009, on average Adventure  and Comedy has the highest ratings.
+
+In 2010, on average Adventure and Drama has the highest ratings.
+
+In 2011, on average, Adventure and Drama has the highest ratings,
 Horror has the least ratings for each year.
 
 AUDIENCE RATINGS
 
 In 2007, on average, Drama  and Adventure has the highest ratings.
-In 2008, on average , Drama  and Romance has the highest ratings.
-In 2009, on average Adventure  and Drama has the highest ratings.
-In 2010, on average Adventure and Drama has the highest ratings.
-In 2011, on average, Adventure and Drama has the highest ratings.
 
-![image](https://github.com/user-attachments/assets/f1985c52-0ee9-4792-a15b-d7876ae4f43b)
+In 2008, on average , Drama  and Romance has the highest ratings.
+
+In 2009, on average Adventure  and Drama has the highest ratings.
+
+In 2010, on average Adventure and Drama has the highest ratings.
+
+In 2011, on average, Adventure and Drama has the highest ratings.
 
 
 ![image](https://github.com/user-attachments/assets/1b47a026-1edf-494f-b304-5f2fe17f5b50)
@@ -54,7 +68,6 @@ Between 2007-2011, the genre with the least budget is "horror" and the highest i
 Comparing the number of Adventure movies produced in each year, the budget is higher than most genre. Adventure genre has the highest budget in 2009. However, it is the second least produces movie in that same year after Romance.
 
 Comedy is the highest produces movie between 2007-2010 with the least budget, production of comedy movie does not require a lot of budget.
-![image](https://github.com/user-attachments/assets/21068f23-9f18-42a2-998b-2c26e208fe4d)
 
 
 
